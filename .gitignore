@@ -125,6 +125,7 @@ $RECYCLE.BIN/
 # Example: Ignore build and logs
 build/
 logs/
+Papers/
 
 # Example: Ignore data or temp folders
 data/
