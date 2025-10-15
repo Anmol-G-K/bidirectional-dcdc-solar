@@ -1,0 +1,76 @@
+# ===========================
+# General Project Git Attributes
+# ===========================
+
+# Treat all text files as UTF-8 and normalize line endings
+* text=auto eol=lf
+
+# ===========================
+# Markdown and Documentation
+# ===========================
+*.md     text diff=markdown
+*.txt    text
+*.tex    text diff=tex
+*.bib    text
+
+# ===========================
+# MATLAB / Simulink
+# ===========================
+*.m      text diff=matlab
+*.mlx    binary
+*.slx    binary
+*.mdl    binary
+*.mat    binary
+*.fig    binary
+
+# ===========================
+# PDF and Report Files
+# ===========================
+*.pdf    binary
+*.docx   binary
+*.pptx   binary
+
+# ===========================
+# Image Files
+# ===========================
+# Images are stored in the /images folder
+images/*  binary
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.bmp     binary
+*.gif     binary
+*.tiff    binary
+*.svg     text
+
+# ===========================
+# Code and Configuration Files
+# ===========================
+*.json   text
+*.yaml   text
+*.yml    text
+*.xml    text
+*.csv    text
+*.ini    text
+*.cfg    text
+
+# ===========================
+# Scripts and Build Files
+# ===========================
+*.sh     text eol=lf
+*.bat    text eol=crlf
+*.ps1    text eol=crlf
+Makefile text
+
+# ===========================
+# Ignore temporary or system-specific files
+# ===========================
+*.log     text
+*.bak     text
+*.tmp     text
+*.DS_Store export-ignore
+Thumbs.db export-ignore
+
+# ===========================
+# End of File
+# ===========================
