@@ -350,3 +350,15 @@ The authors thank **Dr. Mohanrajan S.R.** for his guidance and the **Department 
 7. Texas Instruments, “Test Report: PMP21529 4-Switch Buck-Boost Bi-directional DC-DC Converter Reference Design,” Application Report TIDT046, 2018.  
 
 ---
+
+## 13. Meet the Team 😎
+
+| 🧑‍🤝‍🧑 Name             | 🔗 LinkedIn                                                                                                                                            | 🛠️ GitHub                                                                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mauli Rajguru** | [![LinkedIn](https://img.shields.io/badge/-Mauli%20Rajguru-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/maulir/)      | [![GitHub](https://img.shields.io/badge/-Mauli%20Rajguru-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/maulirajguru)       |
+| **Aryan Jaljith** | [![LinkedIn](https://img.shields.io/badge/-Aryan%20Jaljith-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/aryan-jaljith-64283b240/)      | [![GitHub](https://img.shields.io/badge/-Aryan%20Jaljith-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/aryanjaljith)       |
+| **Anmol Krishnan**       | [![LinkedIn](https://img.shields.io/badge/-Anmol%20Krishnan-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anmol-g-k) | [![GitHub](https://img.shields.io/badge/-Anmol--G--K-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/Anmol-G-K) |
+
+
+
+---
