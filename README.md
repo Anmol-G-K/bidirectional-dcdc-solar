@@ -1,3 +1,4 @@
+
 # Design and Implementation of a 4-Switch Bidirectional Synchronous Buck-Boost DC-DC Converter for Solar Charging Lights
 
 **Authors:**  
@@ -5,6 +6,30 @@ Anmol Govindarajpuram Krishnan, Aryan Jaljith, Mauli Rajguru
 Department of Electrical and Electronics Engineering  
 Amrita Vishwa Vidyapeetham, Coimbatore, India  
 Roll Numbers: CB.EN.U4EEE23103, CB.EN.U4EEE23105, CB.EN.U4EEE23120  
+
+<p align="center">
+  <!-- Project identity -->
+  <img src="https://img.shields.io/badge/Power%20Electronics-DC--DC%20Converter-blue?style=for-the-badge&logo=thunderbird&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB%20%7C%20Simulink-Tool%20Used-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-Controller-0c4a8a?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solar%20Energy-Renewable-brightgreen?style=for-the-badge&logo=solarpower&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardware%20Development-In%20Progress-yellow?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <br/>
+  <!-- Repo information -->
+  <img src="https://img.shields.io/github/languages/top/Anmol-G-K/bidirectional-dcdc-solar?style=for-the-badge&color=purple"/>
+  <img src="https://img.shields.io/github/last-commit/Anmol-G-K/bidirectional-dcdc-solar?style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/repo-size/Anmol-G-K/bidirectional-dcdc-solar?style=for-the-badge&color=success"/>
+  <img src="https://img.shields.io/badge/license-MIT-00897b?style=for-the-badge"/>
+
+  <!-- Documentation -->
+  <img src="https://img.shields.io/badge/Documentation-IEEE%20Format-informational?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Project%20Phase-Prototype-orange?style=for-the-badge&logo=git&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Project%20Phase-Hardware%20in%20Progress-yellow?style=for-the-badge&logo=githubactions&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/Project%20Phase-Simulation%20Validated-blue?style=for-the-badge&logo=simulink&logoColor=white"/> -->
+
+
+</p>
+
 
 ---
 

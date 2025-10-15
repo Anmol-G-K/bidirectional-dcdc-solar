@@ -71,6 +71,12 @@ Makefile text
 *.DS_Store export-ignore
 Thumbs.db export-ignore
 
+# Force MATLAB language detection for relevant files
+*.m linguist-language=MATLAB
+*.mlx linguist-language=MATLAB
+*.slx linguist-language=MATLAB
+
+
 # ===========================
 # End of File
 # ===========================
